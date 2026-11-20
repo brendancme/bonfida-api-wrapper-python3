@@ -21,7 +21,7 @@ If useful, buy me a coffee?
 
 ## Installation
 
-    $ git clone https://github.com/LeeChunHao2000/bonfida-api-wrapper-python3
+    $ git clone https://github.com/brendancme/bonfida-api-wrapper-python3
 
  - This wrapper requires [requests](https://github.com/psf/requests)
 
